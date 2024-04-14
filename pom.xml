@@ -49,7 +49,7 @@
         <repository>
             <id>github</id>
             <name>JTeC</name>
-            <url>https://maven.pkg.github.com/tum-i4/JTeC</url>
+            <url>https://maven.pkg.github.com/raseshshah/JTeC</url>
         </repository>
     </distributionManagement>
 </project>
